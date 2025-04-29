@@ -23,5 +23,5 @@ A web-based chatbot that interacts with users, detects their emotional tone usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vinayadari/mental-health-bot.git
+   git clone https://github.com/vinayadari/Ai-mental-health-checker.git
    cd mental-health-bot
